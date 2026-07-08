@@ -26,3 +26,22 @@ This project aims to develop an end-to-end data science solution that predicts t
 ## Project Status
 
 🚧 Project started on 06/07/2026.
+
+## Dataset
+
+This project uses the IBM Telco Customer Churn dataset containing 7,043 customer records and 33 features related to customer demographics, services, billing, and churn status.
+
+## Project Structure
+
+```text
+.
+├── app/
+├── data/
+│   ├── raw/
+│   └── processed/
+├── docs/
+├── images/
+├── models/
+├── notebooks/
+├── reports/
+└── src/
